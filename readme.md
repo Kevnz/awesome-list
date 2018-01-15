@@ -42,5 +42,7 @@ Code used to make production quality backends.
 
 * [Date-Math](https://www.npmjs.com/package/date-math) - A library to perform mathematical operations on dates
 * [Date-Arithmeti](https://www.npmjs.com/package/date-arithmetic) - A simple object containing some date math utils
+* [1stand15th](https://www.npmjs.com/package/1stand15th) - Get the 1st and 15th of the month for a year, or the 1st and 15th so far for the current year.
+* [days-in-a-row](https://www.npmjs.com/package/days-in-a-row) - Return an array of dates (strings) based on a start date and a number
 
 ### The Front End
