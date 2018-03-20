@@ -30,8 +30,15 @@ Code used to make production quality backends.
 * [Jest](https://facebook.github.io/jest/) - My current favorite testing framework, includes coverage and mocking as well as testing.
 * [Mocha](https://mochajs.org/) - Mocha JS, the most common testing framework for JavaScript, both node and in the browser.
 * [NYC](https://www.npmjs.com/package/nyc) - Code instrumentation and coverage tool.
+* [Leakage](https://github.com/andywer/leakage) - Leakage - Memory leak testing for node.
 
 ### Utils
+
+#### Performance
+
+* [Nodejs Dashboard](https://github.com/FormidableLabs/nodejs-dashboard) - Telemetry dashboard for node.js apps from the terminal! Damn useful
+* [Node-Clinic](https://github.com/nearform/node-clinic) - Clinic diagnoses your Node.js performance issues
+* [0x](https://github.com/davidmarkclements/0x) - 0x🔥 Flamegraph profiling
 
 #### Making a command line interfaces
 
